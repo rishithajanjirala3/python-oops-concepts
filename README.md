@@ -7,7 +7,7 @@
 
 - ✅ Class and Object (`class & object.py`)
 - ✅ Encapsulation (`Encapsulation.py`)
-- ✅ Constructor and Destructor (`constructor.py`)
+- ✅ Constructor (`constructor.py`)
 - ✅ Inheritance (`inheritance/` folder)
   - Single Inheritance
   - Multiple Inheritance
